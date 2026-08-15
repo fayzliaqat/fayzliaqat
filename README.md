@@ -320,7 +320,7 @@ Contributed to business-development activities surrounding web, mobile, and AI s
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/fayzliaqat/fayzliaqat/outputs/dist/github-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+<img src="https://raw.githubusercontent.com/fayzliaqat/fayzliaqat/output/dist/github-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 
 ---
