@@ -1,14 +1,12 @@
 <div align="center">
 
-<a href="https://capsule-render.vercel.app/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6366F1,100:312E81&height=220&section=header&text=FAYZ%20LIAQAT&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Artificial%20Intelligence%20Undergraduate%20%7C%20AI%20%26%20ML%20Engineering&descAlignY=58&descSize=18&animation=fadeIn" />
-</a>
-
-<a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Undergraduate;AI+%7C+Machine+Learning+%7C+Deep+Learning;Knowledge+Graphs+%7C+Symbolic+AI+%7C+NLP;Building+End-to-End+AI+Applications;Seeking+AI+%2F+ML+Engineering+Opportunities" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6366F1,100:8B5CF6&height=220&section=header&text=FAYZ%20LIAQAT&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=Artificial%20Intelligence%20%7C%20AI%20%26%20ML%20Engineering&descAlignY=62&descSize=18&animation=fadeIn" width="100%" />
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Undergraduate;AI+%7C+Machine+Learning+%7C+Deep+Learning;Knowledge+Graphs+%7C+Symbolic+AI+%7C+NLP;Building+End-to-End+AI+Applications;Seeking+AI+%2F+ML+Engineering+Opportunities" alt="Typing SVG" />
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/BS%20Artificial%20Intelligence-2023--2027-6366F1?style=for-the-badge&logo=academia&logoColor=white" />
 <img src="https://img.shields.io/badge/CGPA-3.5%2F4.00-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" />
@@ -16,17 +14,20 @@
 
 <br/><br/>
 
-<a href="mailto:fayzliaqat@gmail.com">
-  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<a href="https://fayz-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-<a href="mailto:fayzliaqat@gmail.com">
-  <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<a href="https://www.linkedin.com/in/fayz-liaqat/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:fayzliaqat@gmail.com">
-  <img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/">
-  <img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white" />
+
+<a href="https://github.com/fayzliaqat">
+<img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -43,9 +44,9 @@
 
 Artificial Intelligence undergraduate at the **University of Management and Technology**, focused on building practical AI systems that move beyond isolated models into complete, usable applications.
 
-Hands-on experience spans **speech processing, computer vision, NLP, symbolic reasoning, knowledge graphs, workflow automation, and AI application development**. Experienced with Python, TensorFlow, PyTorch, OpenCV, Neo4j, LangChain, Streamlit, and n8n, with practical exposure to preprocessing, feature engineering, model experimentation, evaluation, inference pipelines, APIs, webhooks, and deployment-oriented application development.
+Hands-on experience spans **speech processing, computer vision, NLP, symbolic reasoning, knowledge graphs, workflow automation, and AI application development**. Experienced in Python, TensorFlow, PyTorch, OpenCV, Neo4j, LangChain, Streamlit, and n8n, with practical exposure to data preprocessing, feature engineering, model experimentation, evaluation, inference pipelines, APIs, webhooks, and AI application development.
 
-The engineering focus is on understanding the complete lifecycle of an AI product: from data and preprocessing to model experimentation, reasoning, integration, interface development, and delivery.
+The goal is to combine **AI/ML expertise with software engineering principles** to build reliable, practical, and deployable intelligent applications.
 
 ### Open To
 
@@ -54,7 +55,7 @@ The engineering focus is on understanding the complete lifecycle of an AI produc
 - AI / ML Engineering Roles
 - Applied AI Projects
 - Open Source Collaboration
-- Research-oriented AI Projects
+- Research-Oriented AI Projects
 
 ---
 
@@ -63,7 +64,12 @@ The engineering focus is on understanding the complete lifecycle of an AI produc
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql&theme=dark" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/SQL-6366F1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prolog-7C3AED?style=flat-square" />
 </p>
 
 ### AI / Machine Learning
@@ -73,55 +79,45 @@ The engineering focus is on understanding the complete lifecycle of an AI produc
 </p>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Keras-5D0F1E?style=flat-square&logo=keras&logoColor=FF0000" />
 <img src="https://img.shields.io/badge/Transformers-4C1D95?style=flat-square&logo=huggingface&logoColor=FFD21E" />
 <img src="https://img.shields.io/badge/NLP-6366F1?style=flat-square" />
 <img src="https://img.shields.io/badge/Computer%20Vision-7C3AED?style=flat-square" />
 <img src="https://img.shields.io/badge/Speech%20AI-8B5CF6?style=flat-square" />
-
 </p>
 
 ### Data, Audio & Processing
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
 <img src="https://img.shields.io/badge/PySpark-6366F1?style=flat-square&logo=apachespark&logoColor=white" />
 <img src="https://img.shields.io/badge/PaddleOCR-4C1D95?style=flat-square" />
 <img src="https://img.shields.io/badge/Librosa-7C3AED?style=flat-square" />
 <img src="https://img.shields.io/badge/MFCC-8B5CF6?style=flat-square" />
-
 </p>
 
-### AI Systems & Application Engineering
+### AI Systems & Databases
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=neo4j,git,github,vscode&theme=dark" />
-
 </p>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/LangChain-1F2937?style=flat-square&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/Cypher-4C1D95?style=flat-square" />
 <img src="https://img.shields.io/badge/Knowledge%20Graphs-6366F1?style=flat-square" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/REST%20APIs-7C3AED?style=flat-square" />
 <img src="https://img.shields.io/badge/Webhooks-8B5CF6?style=flat-square" />
-
 </p>
 
 ### Application Development
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
-
 </p>
 
 ---
@@ -130,15 +126,15 @@ The engineering focus is on understanding the complete lifecycle of an AI produc
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| Machine Learning | Intermediate | Model experimentation, preprocessing, feature engineering and evaluation |
-| Deep Learning | Intermediate | MLP, CNN, LSTM, GRU and Transformer-based experimentation |
-| Speech AI | Intermediate | Audio preprocessing, MFCC feature extraction and speech classification |
-| NLP | Intermediate | Text preprocessing, contextual reconstruction and language-focused AI applications |
-| Computer Vision | Intermediate | OpenCV-based image processing, OCR and document restoration |
+| Machine Learning | Intermediate | Data preprocessing, feature engineering, model experimentation and evaluation |
+| Deep Learning | Intermediate | MLP, CNN, LSTM, GRU and Transformer experimentation |
+| Speech AI | Intermediate | Audio preprocessing, MFCC extraction and speech classification |
+| NLP | Intermediate | Text processing and contextual AI application development |
+| Computer Vision | Intermediate | OpenCV image processing, OCR and document restoration |
 | Knowledge Graphs | Intermediate | Neo4j, Cypher, graph construction and multi-hop relationships |
 | Symbolic AI | Intermediate | Prolog-based reasoning and hybrid symbolic-AI systems |
-| AI Automation | Intermediate | n8n workflows, webhooks, JSON/CSV processing and automated pipelines |
-| AI Application Development | Intermediate | Streamlit interfaces, inference workflows and end-to-end AI applications |
+| AI Automation | Intermediate | n8n workflows, webhooks and automated processing pipelines |
+| AI Application Development | Intermediate | Streamlit interfaces, inference pipelines and end-to-end AI applications |
 
 ---
 
@@ -149,22 +145,22 @@ The engineering focus is on understanding the complete lifecycle of an AI produc
 
 <br/>
 
-A four-class speech classification system for **Urdu, English, Urdu–English code-switched speech, and Arabic**, built using custom and crowdsourced audio recordings.
+A four-class speech classification system for **Urdu, English, Urdu–English code-switched speech, and Arabic** using custom and crowdsourced audio recordings.
 
 | Category | Details |
 |:---|:---|
 | **Stack** | TensorFlow · Keras · Librosa · Streamlit · MFCC |
 | **Scale** | 873 audio recordings |
 | **Performance** | Evaluated on 175 unseen test recordings |
-| **Security** | Not specified |
+| **Security** | Not a stated project objective |
 | **Impact** | End-to-end speech classification and deployable audio inference |
-| **Repository** | [View Repository](https://github.com/) |
+| **Repository** | [View Repository](https://github.com/fayzliaqat/Acoustic-Language-Identification) |
 
 ### Engineering Overview
 
-The project implements an audio preprocessing and feature-engineering pipeline using **16 kHz resampling and 13 MFCC features**. Multiple architectures including **MLP, LSTM and GRU** were compared before selecting an LSTM-based solution.
+Built an audio preprocessing and feature-engineering pipeline using **16 kHz resampling and 13 MFCC features**. MLP, LSTM, and GRU architectures were compared on the classification task.
 
-The final system was deployed through Streamlit, allowing users to submit audio and receive a predicted language together with per-class confidence scores.
+The selected LSTM model was deployed through a Streamlit interface that accepts audio input and displays the predicted language with per-class confidence scores.
 
 </details>
 
@@ -175,22 +171,22 @@ The final system was deployed through Streamlit, allowing users to submit audio 
 
 <br/>
 
-A hybrid symbolic-AI system combining **natural-language facts, Neo4j knowledge graphs and Prolog reasoning** to derive multi-hop relationships.
+A hybrid symbolic-AI system combining **natural-language facts, Neo4j knowledge graphs, and Prolog reasoning** to derive multi-hop relationships.
 
 | Category | Details |
 |:---|:---|
 | **Stack** | Python · Neo4j · Cypher · Prolog · AIML · Streamlit |
 | **Scale** | Persistent knowledge graph with dynamic facts and relationships |
 | **Performance** | Real-time graph exploration and inference workflow |
-| **Security** | Not specified |
-| **Impact** | Hybrid symbolic reasoning and knowledge-graph exploration |
-| **Repository** | [View Repository](https://github.com/) |
+| **Security** | Not a stated project objective |
+| **Impact** | Hybrid symbolic reasoning and graph-based knowledge exploration |
+| **Repository** | [View Repository](https://github.com/fayzliaqat/Hybrid-Knowledge-Graph-Reasoning-System-Neo4j) |
 
 ### Engineering Overview
 
-KinGraph AI converts natural-language facts into a persistent **Neo4j knowledge graph** and applies Prolog-based reasoning to derive multi-hop relationships.
+The system converts natural-language facts into a persistent **Neo4j knowledge graph** and uses Prolog-based reasoning to derive multi-hop relationships.
 
-The application includes a reasoning studio and graph explorer capable of presenting **dynamic facts, inferred facts, nodes and graph relationships**, bringing symbolic reasoning and graph-based representation together in a single application.
+The application includes a reasoning studio and graph explorer displaying **dynamic facts, inferred facts, nodes, and graph relationships**.
 
 </details>
 
@@ -201,22 +197,22 @@ The application includes a reasoning studio and graph explorer capable of presen
 
 <br/>
 
-An end-to-end document restoration pipeline combining image preprocessing, damage-mask detection, OCR analysis and contextual LLM-based text reconstruction.
+An end-to-end document restoration pipeline combining image preprocessing, damage-mask detection, OCR analysis, and contextual LLM-based text reconstruction.
 
 | Category | Details |
 |:---|:---|
 | **Stack** | OpenCV · PaddleOCR · LangChain · Mistral AI · Streamlit |
 | **Scale** | End-to-end document processing pipeline |
-| **Performance** | OCR statistics and reconstruction output presented through the application |
-| **Security** | Not specified |
+| **Performance** | OCR statistics and reconstruction results presented through the application |
+| **Security** | Not a stated project objective |
 | **Impact** | Automated restoration of damaged document text |
-| **Repository** | [View Repository](https://github.com/) |
+| **Repository** | [View Repository](https://github.com/fayzliaqat/AI-Document-Text-Restoration) |
 
 ### Engineering Overview
 
-The system combines **image preprocessing, damage-mask detection, OCR bounding-box analysis and contextual LLM-based reconstruction** into a unified workflow.
+Built a document-processing pipeline combining **image preprocessing, damage-mask detection, OCR bounding-box analysis, and contextual LLM-based reconstruction**.
 
-A Streamlit interface presents original documents, detected damage, OCR statistics, highlighted regions and reconstructed text, providing a complete application layer around the underlying AI pipeline.
+A Streamlit interface presents original documents, detected damage, OCR statistics, highlighted regions, and reconstructed text.
 
 </details>
 
@@ -227,22 +223,22 @@ A Streamlit interface presents original documents, detected damage, OCR statisti
 
 <br/>
 
-An automated resume-processing workflow that handles resume intake, preprocessing, scoring, ranking, CSV export and email delivery.
+An automated workflow for resume intake, text preprocessing, keyword-based scoring, candidate ranking, CSV export, and email delivery.
 
 | Category | Details |
 |:---|:---|
 | **Stack** | Python · n8n · Webhooks · JSON · CSV |
-| **Scale** | Automated multi-stage candidate processing workflow |
+| **Scale** | Automated multi-stage candidate-processing workflow |
 | **Performance** | Reusable Python ranking logic with local workflow testing |
-| **Security** | Not specified |
-| **Impact** | Automated candidate ranking and delivery workflow |
-| **Repository** | [View Repository](https://github.com/) |
+| **Security** | Not a stated project objective |
+| **Impact** | Automated candidate ranking and workflow orchestration |
+| **Repository** | [View Repository](https://github.com/fayzliaqat/Agentic-Resume-Ranking-System) |
 
 ### Engineering Overview
 
-The system automates resume intake through **webhook-driven JSON input**, followed by text preprocessing, keyword-based scoring, candidate ranking, CSV export and email delivery.
+Automated resume intake through **webhook-driven JSON input**, followed by text preprocessing, keyword-based scoring, candidate ranking, CSV export, and email delivery.
 
-The architecture separates reusable Python ranking logic from the n8n orchestration layer, creating a workflow that can be tested locally and extended into larger recruitment automation pipelines.
+Reusable Python ranking logic is separated from the n8n orchestration layer, creating a workflow that can be tested locally and extended.
 
 </details>
 
@@ -254,15 +250,15 @@ The architecture separates reusable Python ranking logic from the n8n orchestrat
 
 **Mar 2025 – Jun 2025 · Lahore, Pakistan**
 
-Contributed to business-development activities surrounding web, mobile and AI software projects, gaining practical exposure to technology selection, project scoping, quotations and software-delivery workflows.
+Contributed to business-development activities surrounding web, mobile, and AI software projects, gaining practical exposure to technology selection, project scoping, quotations, and software-delivery workflows.
 
 **Scope of Work**
 
-- Researched market demand across web, mobile and AI software projects.
+- Researched market demand across web, mobile, and AI software projects.
 - Investigated technology-stack requirements and pricing patterns.
 - Evaluated client requirements and project needs.
 - Gained exposure to project scoping and technology selection.
-- Assisted with understanding quotations and software-delivery workflows.
+- Developed practical understanding of quotations and software-delivery workflows.
 
 **Skills**
 
@@ -290,13 +286,13 @@ Contributed to business-development activities surrounding web, mobile and AI so
 
 ### DataCamp
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/AI%20Engineer%20for%20Data%20Scientists%20Associate-2026-6366F1?style=for-the-badge&logo=datacamp&logoColor=white" />
 </p>
 
 ### Neo4j GraphAcademy
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Neo4j%20Certified%20Professional-2026-4C1D95?style=for-the-badge&logo=neo4j&logoColor=white" />
 <img src="https://img.shields.io/badge/Graph%20Data%20Science-2026-6366F1?style=for-the-badge&logo=neo4j&logoColor=white" />
 <img src="https://img.shields.io/badge/Cypher%20Fundamentals-2026-7C3AED?style=for-the-badge&logo=neo4j&logoColor=white" />
@@ -306,33 +302,9 @@ Contributed to business-development activities surrounding web, mobile and AI so
 
 ### NexSkill
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/3D%20VR%20%26%20Game%20Development-2025-6366F1?style=for-the-badge" />
 </p>
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-4C1D95?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-6366F1?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-
-</div>
 
 ---
 
@@ -352,21 +324,11 @@ Contributed to business-development activities surrounding web, mobile and AI so
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=fayzliaqat&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" />
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fayzliaqat&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=6366F1&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fayzliaqat&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=6366F1&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -376,7 +338,7 @@ Contributed to business-development activities surrounding web, mobile and AI so
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/fayzliaqat/fayzliaqat/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/fayzliaqat/fayzliaqat/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
 
@@ -388,7 +350,7 @@ Contributed to business-development activities surrounding web, mobile and AI so
 Learning:
   - Advanced Machine Learning
   - Deep Learning
-  - NLP
+  - Natural Language Processing
   - Computer Vision
   - Knowledge Graphs
   - AI Engineering
@@ -406,17 +368,9 @@ Exploring:
   - AI application architecture
   - Production-oriented AI systems
 
-Open To:
+Open_To:
   - AI Engineering Internships
   - Machine Learning Internships
   - AI / ML Engineering Opportunities
   - Applied AI Projects
   - Open Source Collaboration
-
-  Connect
-<div align="center"> <a href="mailto:fayzliaqat@gmail.com"> <img src="https://img.shields.io/badge/Gmail-fayzliaqat%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/"> <img src="https://img.shields.io/badge/GitHub-Fayz%20Liaqat-4C1D95?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://dev.to/muhammad_fayzliaqat_cc8b"> <img src="https://img.shields.io/badge/DEV%20Community-Profile-312E81?style=for-the-badge&logo=dev.to&logoColor=white" /> </a> </div>
-<div align="center">
-
-Build systems that solve real problems — not just models that pass notebooks.
-
-<br/> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6366F1,100:4C1D95&height=120&section=footer&animation=fadeIn" /> </div> ```
