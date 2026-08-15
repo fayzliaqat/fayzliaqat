@@ -344,6 +344,48 @@ Contributed to business-development activities surrounding web, mobile, and AI s
 
 ---
 
+## Connect
+
+<div align="center">
+
+<a href="mailto:fayzliaqat@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-fayzliaqat%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/fayz-liaqat/">
+<img src="https://img.shields.io/badge/LinkedIn-Fayz%20Liaqat-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/fayzliaqat">
+<img src="https://img.shields.io/badge/GitHub-Fayz%20Liaqat-4C1D95?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://fayz-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Fayz%20Liaqat-312E81?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/noban.pleez.5">
+<img src="https://img.shields.io/badge/Facebook-Profile-6366F1?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/fayz._.liaqat_2.0/">
+<img src="https://img.shields.io/badge/Instagram-Profile-7C3AED?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+> **Build systems that solve real problems — not just models that pass notebooks.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:312E81&height=120&section=footer" width="100%" />
+
+</div>
+
 ## Current Focus
 
 ```yaml
@@ -374,3 +416,4 @@ Open_To:
   - AI / ML Engineering Opportunities
   - Applied AI Projects
   - Open Source Collaboration
+
