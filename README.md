@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6366F1,100:8B5CF6&height=220&section=header&text=FAYZ%20LIAQAT&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=Artificial%20Intelligence%20%7C%20AI%20%26%20ML%20Engineering&descAlignY=62&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312E81,50:6366F1,100:8B5CF6&amp;height=220&amp;section=header&amp;text=FAYZ%20LIAQAT&amp;fontSize=52&amp;fontColor=FFFFFF&amp;fontAlignY=40&amp;desc=Artificial%20Intelligence%20%7C%20AI%20%26%20ML%20Engineering&amp;descAlignY=62&amp;descSize=18&amp;animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -312,13 +312,13 @@ Contributed to business-development activities surrounding web, mobile, and AI s
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fayzliaqat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C4B5FD" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fayzliaqat&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;icon_color=6366F1&amp;text_color=C4B5FD" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayzliaqat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayzliaqat&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;text_color=C4B5FD" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=fayzliaqat&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=C4B5FD" />
+<img src="https://streak-stats.demolab.com/?user=fayzliaqat&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=8B5CF6&amp;fire=6366F1&amp;currStreakLabel=C4B5FD" />
 
 </div>
 
