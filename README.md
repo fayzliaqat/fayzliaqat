@@ -385,35 +385,3 @@ Contributed to business-development activities surrounding web, mobile, and AI s
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:312E81&height=120&section=footer" width="100%" />
 
 </div>
-
-## Current Focus
-
-```yaml
-Learning:
-  - Advanced Machine Learning
-  - Deep Learning
-  - Natural Language Processing
-  - Computer Vision
-  - Knowledge Graphs
-  - AI Engineering
-
-Building:
-  - End-to-end AI applications
-  - AI-powered automation workflows
-  - Knowledge graph systems
-  - Applied machine learning projects
-
-Exploring:
-  - Hybrid AI
-  - Symbolic reasoning
-  - LLM applications
-  - AI application architecture
-  - Production-oriented AI systems
-
-Open_To:
-  - AI Engineering Internships
-  - Machine Learning Internships
-  - AI / ML Engineering Opportunities
-  - Applied AI Projects
-  - Open Source Collaboration
-
