@@ -312,14 +312,7 @@ Contributed to business-development activities surrounding web, mobile, and AI s
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fayzliaqat&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;icon_color=6366F1&amp;text_color=C4B5FD" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayzliaqat&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;text_color=C4B5FD" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=fayzliaqat&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=8B5CF6&amp;fire=6366F1&amp;currStreakLabel=C4B5FD" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=fayzliaqat&amp;show_icons=true&amp;theme=tokyonight" />
 </div>
 
 ---
