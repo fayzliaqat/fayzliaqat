@@ -4,37 +4,37 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Undergraduate;AI+%7C+Machine+Learning+%7C+Deep+Learning;Knowledge+Graphs+%7C+Symbolic+AI+%7C+NLP;Building+End-to-End+AI+Applications;Seeking+AI+%2F+ML+Engineering+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Artificial+Intelligence+Undergraduate;AI+%7C+Machine+Learning+%7C+Deep+Learning;Knowledge+Graphs+%7C+Symbolic+AI+%7C+NLP;Building+End-to-End+AI+Applications;Seeking+AI+%2F+ML+Engineering+Opportunities" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/BS%20Artificial%20Intelligence-2023--2027-6366F1?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/CGPA-3.5%2F4.00-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" />
-<img src="https://img.shields.io/badge/Lahore-Pakistan-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/BS%20Artificial%20Intelligence-2023--2027-6366F1?style=for-the-badge&amp;logo=academia&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/CGPA-3.5%2F4.00-7C3AED?style=for-the-badge&amp;logo=bookstack&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Lahore-Pakistan-4C1D95?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" />
 
 <br/><br/>
 
 <a href="https://fayz-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/fayz-liaqat/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 
 <a href="mailto:fayzliaqat@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-4C1D95?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
 </a>
 
 <a href="https://github.com/fayzliaqat">
-<img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=fayzliaqat&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/fayzliaqat?style=for-the-badge&color=7C3AED&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/fayzliaqat?style=for-the-badge&color=8B5CF6&label=STARS" />
+<img src="https://komarev.com/ghpvc/?username=fayzliaqat&amp;style=for-the-badge&amp;color=6366F1&amp;label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/fayzliaqat?style=for-the-badge&amp;color=7C3AED&amp;label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/fayzliaqat?style=for-the-badge&amp;color=8B5CF6&amp;label=STARS" />
 
 </div>
 
@@ -64,23 +64,23 @@ The goal is to combine **AI/ML expertise with software engineering principles** 
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql&amp;theme=dark" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/SQL-6366F1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-6366F1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Prolog-7C3AED?style=flat-square" />
 </p>
 
 ### AI / Machine Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&amp;theme=dark" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Keras-5D0F1E?style=flat-square&logo=keras&logoColor=FF0000" />
-<img src="https://img.shields.io/badge/Transformers-4C1D95?style=flat-square&logo=huggingface&logoColor=FFD21E" />
+<img src="https://img.shields.io/badge/Keras-5D0F1E?style=flat-square&amp;logo=keras&amp;logoColor=FF0000" />
+<img src="https://img.shields.io/badge/Transformers-4C1D95?style=flat-square&amp;logo=huggingface&amp;logoColor=FFD21E" />
 <img src="https://img.shields.io/badge/NLP-6366F1?style=flat-square" />
 <img src="https://img.shields.io/badge/Computer%20Vision-7C3AED?style=flat-square" />
 <img src="https://img.shields.io/badge/Speech%20AI-8B5CF6?style=flat-square" />
@@ -89,8 +89,8 @@ The goal is to combine **AI/ML expertise with software engineering principles** 
 ### Data, Audio & Processing
 
 <p align="center">
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/PySpark-6366F1?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&amp;logo=apachespark&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/PySpark-6366F1?style=flat-square&amp;logo=apachespark&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/PaddleOCR-4C1D95?style=flat-square" />
 <img src="https://img.shields.io/badge/Librosa-7C3AED?style=flat-square" />
 <img src="https://img.shields.io/badge/MFCC-8B5CF6?style=flat-square" />
@@ -99,14 +99,14 @@ The goal is to combine **AI/ML expertise with software engineering principles** 
 ### AI Systems & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=neo4j,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=neo4j,git,github,vscode&amp;theme=dark" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/LangChain-1F2937?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1F2937?style=flat-square&amp;logo=langchain&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Cypher-4C1D95?style=flat-square" />
 <img src="https://img.shields.io/badge/Knowledge%20Graphs-6366F1?style=flat-square" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&amp;logo=n8n&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/REST%20APIs-7C3AED?style=flat-square" />
 <img src="https://img.shields.io/badge/Webhooks-8B5CF6?style=flat-square" />
 </p>
@@ -114,10 +114,10 @@ The goal is to combine **AI/ML expertise with software engineering principles** 
 ### Application Development
 
 <p align="center">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&amp;logo=googlecolab&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&amp;logo=pycharm&amp;logoColor=white" />
 </p>
 
 ---
@@ -287,17 +287,17 @@ Contributed to business-development activities surrounding web, mobile, and AI s
 ### DataCamp
 
 <p align="center">
-<img src="https://img.shields.io/badge/AI%20Engineer%20for%20Data%20Scientists%20Associate-2026-6366F1?style=for-the-badge&logo=datacamp&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Engineer%20for%20Data%20Scientists%20Associate-2026-6366F1?style=for-the-badge&amp;logo=datacamp&amp;logoColor=white" />
 </p>
 
 ### Neo4j GraphAcademy
 
 <p align="center">
-<img src="https://img.shields.io/badge/Neo4j%20Certified%20Professional-2026-4C1D95?style=for-the-badge&logo=neo4j&logoColor=white" />
-<img src="https://img.shields.io/badge/Graph%20Data%20Science-2026-6366F1?style=for-the-badge&logo=neo4j&logoColor=white" />
-<img src="https://img.shields.io/badge/Cypher%20Fundamentals-2026-7C3AED?style=for-the-badge&logo=neo4j&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Modelling%20Fundamentals-2026-8B5CF6?style=for-the-badge&logo=neo4j&logoColor=white" />
-<img src="https://img.shields.io/badge/Neo4j%20Fundamentals-2026-4C1D95?style=for-the-badge&logo=neo4j&logoColor=white" />
+<img src="https://img.shields.io/badge/Neo4j%20Certified%20Professional-2026-4C1D95?style=for-the-badge&amp;logo=neo4j&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Graph%20Data%20Science-2026-6366F1?style=for-the-badge&amp;logo=neo4j&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Cypher%20Fundamentals-2026-7C3AED?style=for-the-badge&amp;logo=neo4j&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Modelling%20Fundamentals-2026-8B5CF6?style=for-the-badge&amp;logo=neo4j&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Neo4j%20Fundamentals-2026-4C1D95?style=for-the-badge&amp;logo=neo4j&amp;logoColor=white" />
 </p>
 
 ### NexSkill
@@ -328,11 +328,9 @@ Contributed to business-development activities surrounding web, mobile, and AI s
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fayzliaqat&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=6366F1&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fayzliaqat&amp;bg_color=0D1117&amp;color=C4B5FD&amp;line=8B5CF6&amp;point=6366F1&amp;area=true&amp;hide_border=true" width="100%" />
 
 </div>
-
----
 
 ## Contribution Snake
 
@@ -349,27 +347,27 @@ Contributed to business-development activities surrounding web, mobile, and AI s
 <div align="center">
 
 <a href="mailto:fayzliaqat@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-fayzliaqat%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-fayzliaqat%40gmail.com-8B5CF6?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/fayz-liaqat/">
-<img src="https://img.shields.io/badge/LinkedIn-Fayz%20Liaqat-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Fayz%20Liaqat-6366F1?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 
 <a href="https://github.com/fayzliaqat">
-<img src="https://img.shields.io/badge/GitHub-Fayz%20Liaqat-4C1D95?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Fayz%20Liaqat-4C1D95?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
 
 <a href="https://fayz-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Fayz%20Liaqat-312E81?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Fayz%20Liaqat-312E81?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" />
 </a>
 
 <a href="https://www.facebook.com/noban.pleez.5">
-<img src="https://img.shields.io/badge/Facebook-Profile-6366F1?style=for-the-badge&logo=facebook&logoColor=white" />
+<img src="https://img.shields.io/badge/Facebook-Profile-6366F1?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/fayz._.liaqat_2.0/">
-<img src="https://img.shields.io/badge/Instagram-Profile-7C3AED?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-Profile-7C3AED?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" />
 </a>
 
 </div>
@@ -382,6 +380,6 @@ Contributed to business-development activities surrounding web, mobile, and AI s
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:312E81&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8B5CF6,50:6366F1,100:312E81&amp;height=120&amp;section=footer" width="100%" />
 
 </div>
