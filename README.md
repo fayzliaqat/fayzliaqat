@@ -2,6 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312E81,50:6366F1,100:8B5CF6&amp;height=220&amp;section=header&amp;text=FAYZ%20LIAQAT&amp;fontSize=52&amp;fontColor=FFFFFF&amp;fontAlignY=40&amp;desc=Artificial%20Intelligence%20%7C%20AI%20%26%20ML%20Engineering&amp;descAlignY=62&amp;descSize=18&amp;animation=fadeIn" width="100%" />
 
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312E81,50:6366F1,100:8B5CF6&amp;height=220&amp;section=header&amp;text=FAYZ%20LIAQAT&amp;fontSize=52&amp;fontColor=FFFFFF&amp;fontAlignY=40&amp;desc=Artificial%20Intelligence%20%7C%20AI%20%26%20ML%20Engineering&amp;descAlignY=62&amp;descSize=18&amp;animation=fadeIn" width="100%" />
+
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Artificial+Intelligence+Undergraduate;AI+%7C+Machine+Learning+%7C+Deep+Learning;Knowledge+Graphs+%7C+Symbolic+AI+%7C+NLP;Building+End-to-End+AI+Applications;Seeking+AI+%2F+ML+Engineering+Opportunities" alt="Typing SVG" />
