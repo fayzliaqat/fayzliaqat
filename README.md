@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312E81,50:6366F1,100:8B5CF6&amp;height=220&amp;section=header&amp;text=FAYZ%20LIAQAT&amp;fontSize=52&amp;fontColor=FFFFFF&amp;fontAlignY=40&amp;desc=Artificial%20Intelligence%20%7C%20AI%20%26%20ML%20Engineering&amp;descAlignY=62&amp;descSize=18&amp;animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6366F1&amp;height=200" width="100%" />
 
 </div>
 
