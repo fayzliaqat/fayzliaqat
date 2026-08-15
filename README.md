@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6366F1&amp;height=200" width="100%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312E81,50:6366F1,100:8B5CF6&amp;height=220&amp;section=header&amp;text=FAYZ%20LIAQAT&amp;fontSize=52&amp;fontColor=FFFFFF&amp;fontAlignY=40&amp;desc=Artificial%20Intelligence%20%7C%20AI%20%26%20ML%20Engineering&amp;descAlignY=62&amp;descSize=18&amp;animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6366F1&amp;height=200&amp;text=FAYZ%20LIAQAT&amp;fontSize=52&amp;fontColor=FFFFFF&amp;fontAlignY=40" width="100%" />
 
 <br/>
 
@@ -311,15 +305,6 @@ Contributed to business-development activities surrounding web, mobile, and AI s
 <p align="center">
 <img src="https://img.shields.io/badge/3D%20VR%20%26%20Game%20Development-2025-6366F1?style=for-the-badge" />
 </p>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=fayzliaqat&amp;show_icons=true&amp;theme=tokyonight" />
-</div>
 
 ---
 
