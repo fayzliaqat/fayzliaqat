@@ -9,7 +9,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/BS%20Artificial%20Intelligence-2023--2027-6366F1?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/CGPA-3.36%2F4.00-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/CGPA-3.5%2F4.00-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" />
 <img src="https://img.shields.io/badge/Lahore-Pakistan-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 <br/><br/>
