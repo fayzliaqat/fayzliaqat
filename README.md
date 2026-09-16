@@ -175,21 +175,53 @@ Comparative PyTorch benchmark of **MLP, CNN, BiLSTM, BiGRU and Mini Transformer*
 
 ## Experience
 
-### AI/ML & Flutter Intern · Big Brains
+### AI/ML Engineer Intern · Progrez
+
+**Sep 2026 – Present · Remote**
+
+- Working on practical Artificial Intelligence and Machine Learning projects, assignments and training.
+- Applying AI concepts to real-world problem-solving while developing technical skills under professional guidance and mentorship.
+
+### Artificial Intelligence Intern · Big Brains
 
 **Aug 2026 – Present · Remote**
 
 - Working on practical AI/ML tasks, GenAI/LLM research and project-based implementation.
 - Built a **Medical Insurance Cost Prediction** workflow using Pandas, Linear Regression, MAE/MSE/RMSE/R² and Streamlit.
-- Worked with Flutter using **GetX, MVC, Firebase Authentication, Firestore CRUD, Node/Express and REST APIs**.
-- Gaining experience with professional development workflows, mentorship and team-based execution.
+- Exploring AI/ML workflows, implementation techniques and practical development practices through assigned projects and mentorship.
+- Collaborating remotely and gaining experience with professional development workflows and team-based execution.
+
+### Flutter Mobile App Development Intern · Big Brains
+
+**Aug 2026 – Sep 2026 · Remote**
+
+- Completed the Flutter Mobile App Development Internship with a **99% average score**.
+- Built hands-on experience with **Flutter, Dart, GetX, MVC architecture, Firebase Authentication, Firestore CRUD, REST APIs, Node.js and Express**.
+- Worked on mobile application development through practical projects and assigned development tasks.
+
+### Open Source Contributor
+
+**Aug 2025 – Present · Remote · Part-time**
+
+- Contributing to open-source and public GitHub projects through software development, AI/ML experimentation, documentation, bug fixes, feature improvements and collaborative workflows.
+- Working across Python, machine learning, LLM/GenAI, NLP, computer vision, knowledge graphs, automation and related AI engineering technologies.
+- Continuously improving projects through practical implementation and iteration.
+
+### AI Engineer & AI/ML Developer · Fiverr
+
+**Mar 2025 – Present · Remote · Freelance**
+
+- Providing freelance AI and machine learning development services focused on practical, end-to-end intelligent systems and software prototypes.
+- Developing solutions across **Machine Learning, Deep Learning, NLP, Computer Vision, Speech AI, Generative AI, Agentic AI, LLMs, RAG, knowledge graphs, symbolic reasoning and intelligent workflow automation**.
+- Working with **Python, PyTorch, TensorFlow, Scikit-learn, Transformers, LangChain, Neo4j, OpenCV, PaddleOCR, n8n, REST APIs and Webhooks**.
+- Translating technical requirements into usable AI systems with attention to reproducibility, documentation and reliable implementation.
 
 ### Business Development Executive Intern · ByteCraft
 
-**2024 · Lahore, Pakistan · 3 months**
+**Mar 2025 – Jun 2025 · Lahore, Pakistan · On-site**
 
-- Researched market demand, pricing patterns and technology-stack requirements across web, mobile and AI software projects.
-- Evaluated client requirements and gained practical exposure to project scoping, technology selection, quotations and software-delivery workflows.
+- Researched market demand, commonly requested technology stacks and pricing patterns across web, mobile and AI software projects.
+- Reviewed client requirements and gained practical exposure to project acquisition, scope evaluation, quotations and software-delivery workflows.
 
 ---
 
