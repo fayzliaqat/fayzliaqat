@@ -175,7 +175,7 @@ Comparative PyTorch benchmark of **MLP, CNN, BiLSTM, BiGRU and Mini Transformer*
 
 ## Experience
 
-### AI/ML Engineer Intern · Progrez
+### AI/ML Engineer Intern · Progree
 
 **Sep 2026 – Present · Remote**
 
