@@ -25,6 +25,9 @@ jobs:
       - name: Check out graphics builder
         uses: actions/checkout@v4
 
+      - name: Prepare writable output directory
+        run: mkdir -p dist
+
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
