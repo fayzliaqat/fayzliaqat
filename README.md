@@ -1,305 +1,144 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&text=FAYZ%20LIAQAT&fontSize=52&fontColor=FFFFFF&fontAlignY=40" width="100%" />
+# Fayz Liaqat
 
-<br/>
+### AI Undergraduate · Building Practical AI Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=AI+Undergrad+%7C+Practical+AI+Engineering;LLMs+%7C+RAG+%7C+Agentic+AI;Machine+Learning+%7C+NLP+%7C+Computer+Vision;Knowledge+Graphs+%7C+Speech+AI+%7C+Automation;Building+Systems+That+Solve+Real+Problems" alt="Typing SVG" />
+LLMs · RAG · Agentic AI · Machine Learning · NLP · Computer Vision
 
-<br/><br/>
+[Portfolio](https://fayz-portfolio.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/fayz-liaqat/) &nbsp;·&nbsp; [Email](mailto:fayzliaqat@gmail.com)
 
-<img src="https://img.shields.io/badge/BS%20Artificial%20Intelligence-2023--2027-6366F1?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/CGPA-3.5%2F4.00-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" />
-<img src="https://img.shields.io/badge/Lahore-Pakistan-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://fayz-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/fayz-liaqat/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:fayzliaqat@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/fayzliaqat">
-<img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=fayzliaqat&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/fayzliaqat?style=for-the-badge&color=7C3AED&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/fayzliaqat?style=for-the-badge&color=8B5CF6&label=STARS" />
+**BS Artificial Intelligence, UMT Lahore · 2023–2027 · CGPA: 3.5/4.00**
 
 </div>
 
 ---
 
-## About
+## About me
 
-Artificial Intelligence undergraduate at the **University of Management and Technology (UMT), Lahore**, focused on practical AI engineering and building complete systems rather than isolated notebook experiments.
+I'm an Artificial Intelligence undergraduate in Lahore, building practical applications through internships, freelance work, and public projects. I work across the full workflow: preparing data, comparing models, evaluating results, connecting APIs, and building usable interfaces.
 
-My work spans **machine learning, deep learning, LLMs, RAG, Agentic AI, NLP, computer vision, speech AI, knowledge graphs, symbolic reasoning, and workflow automation**. I build end-to-end prototypes with Python, PyTorch, TensorFlow/Keras, LangChain, Neo4j, OpenCV, PaddleOCR, n8n, REST APIs, webhooks, and Streamlit.
+My main interests are **LLM applications, RAG, agentic workflows, computer vision, speech AI, and knowledge graphs**. My projects combine Python, ML frameworks, symbolic reasoning, and automation to turn ideas into working prototypes.
 
-> **Build systems that solve real problems — not just models that pass notebooks.**
+> Build systems that solve real problems — not just models that pass notebooks.
 
-### Current Direction
+I'm open to **AI/ML and LLM engineering internships**, collaborative projects, and remote opportunities. For on-site roles, I'm based in **Lahore**.
 
-- AI Engineer / ML Engineer
-- LLM / Generative AI Engineer
-- AI/ML Internships
-- Applied NLP, Computer Vision and Speech AI
-- Agentic workflows and RAG systems
-- Knowledge Graph and reasoning systems
+## Selected projects
 
----
+### [Vision Intelligence](https://github.com/fayzliaqat/Computer-Vision-Detection-Segmentation)
 
-## Tech Stack
+Vehicle detection, tracking, and traffic-flow analytics with **YOLOv8, ByteTrack, and OpenCV**. The Streamlit app provides directional crossing counts, annotated video, frame telemetry, and CSV exports.
 
-### Languages & Core Development
+**Python · OpenCV · YOLOv8 · ByteTrack · Streamlit**  
+[Try the live app](https://vision-intelligence-fayz.streamlit.app/) · [Code and technical report](https://github.com/fayzliaqat/Computer-Vision-Detection-Segmentation)
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode&theme=dark" />
-</p>
+<a href="https://github.com/fayzliaqat/Computer-Vision-Detection-Segmentation">
+  <img src="https://raw.githubusercontent.com/fayzliaqat/Computer-Vision-Detection-Segmentation/main/outputs/traffic/frames/frame_0191_tracked.png" alt="Vision Intelligence: vehicle detections, tracking IDs, and traffic-flow counts on real traffic footage" width="800" />
+</a>
 
-<p align="center">
-<img src="https://img.shields.io/badge/SQL-6366F1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Prolog-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Cypher-4C1D95?style=flat-square" />
-<img src="https://img.shields.io/badge/Dart-8B5CF6?style=flat-square&logo=dart&logoColor=white" />
-</p>
+### [Acoustic Language Identification](https://github.com/fayzliaqat/Acoustic-Language-Identification)
 
-### AI / Machine Learning
+Four-class speech classification for **Urdu, English, Urdu-English code-switched speech, and Arabic**. Built a dataset of **873 recordings**, extracted **13 MFCC features at 16 kHz**, and compared MLP, LSTM, and GRU models on **175 unseen test recordings**. The Streamlit interface runs the selected LSTM and displays per-class confidence.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" />
-</p>
+**TensorFlow · Keras · Librosa · Streamlit**
 
-<p align="center">
-<img src="https://img.shields.io/badge/Keras-5D0F1E?style=flat-square&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/Transformers-4C1D95?style=flat-square&logo=huggingface&logoColor=FFD21E" />
-<img src="https://img.shields.io/badge/LLMs-6366F1?style=flat-square" />
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/Computer%20Vision-4C1D95?style=flat-square" />
-<img src="https://img.shields.io/badge/Speech%20AI-6366F1?style=flat-square" />
-</p>
+### [KinGraph AI](https://github.com/fayzliaqat/Hybrid-Knowledge-Graph-Reasoning-System-Neo4j)
 
-### AI Systems, Data & Automation
+A hybrid symbolic AI system that stores natural-language family facts in **Neo4j** and derives multi-hop relationships through **Prolog rules**. Includes a conversational reasoning studio and an interactive explorer for explicit and inferred graph relationships.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=neo4j&theme=dark" />
-</p>
+**Python · Neo4j · Cypher · Prolog · AIML · Streamlit**
 
-<p align="center">
-<img src="https://img.shields.io/badge/LangChain-1F2937?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Knowledge%20Graphs-6366F1?style=flat-square" />
-<img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20APIs-4C1D95?style=flat-square" />
-<img src="https://img.shields.io/badge/Webhooks-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/PaddleOCR-6366F1?style=flat-square" />
-<img src="https://img.shields.io/badge/Librosa-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-</p>
+### [AI Document Text Restoration](https://github.com/fayzliaqat/AI-Document-Text-Restoration)
 
-### Application Development
+A damaged-document restoration prototype combining image preprocessing, damage detection, OCR bounding-box analysis, and contextual text reconstruction with an LLM. The interface presents the document, detected damage, OCR results, and reconstructed text.
 
-<p align="center">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-</p>
+**OpenCV · PaddleOCR · LangChain · Mistral · Streamlit**
 
----
+### [Medical Insurance Cost Prediction](https://github.com/fayzliaqat/Medical-Insurance-Cost-Prediction)
 
-## Featured Projects
+An applied regression workflow covering data cleaning, categorical encoding, exploratory analysis, training, evaluation, and a deployed prediction interface. The saved **268-sample test evaluation** reports **R²: 0.8069** and **RMSE: $5,956.34**.
 
-### 01 · Acoustic Language Identification
+**Python · Pandas · scikit-learn · Streamlit**  
+[Try the live app](https://medical-insurance-cost-prediction2.streamlit.app/)
 
-Four-class speech classification for **Urdu, English, Urdu-English code-switched speech, and Arabic**.
+### [Neural Architecture Benchmark on MNIST](https://github.com/fayzliaqat/Neural-Architecture-Benchmark-MNIST)
 
-- **873 recordings** with **175 unseen test samples**
-- 16 kHz audio preprocessing and **13 MFCC** features
-- Compared **MLP, LSTM and GRU** architectures
-- Deployed the selected LSTM model with Streamlit and per-class confidence scores
-- **Stack:** TensorFlow · Keras · Librosa · Streamlit
+Compared **MLP, CNN, BiLSTM, BiGRU, and Mini Transformer** models under a shared PyTorch training and evaluation pipeline. Evaluated model quality, parameter count, training time, and convergence; the CNN achieved **99.17% test accuracy** and **99.16% macro F1**.
 
-[View Repository](https://github.com/fayzliaqat/Acoustic-Language-Identification)
+**Python · PyTorch · scikit-learn · MNIST**
 
-### 02 · KinGraph AI / Hybrid Knowledge Graph Reasoning
+### [Agentic Resume Ranking System](https://github.com/fayzliaqat/Agentic-Resume-Ranking-System)
 
-Hybrid symbolic-AI system that converts natural-language facts into a persistent **Neo4j knowledge graph** and derives multi-hop relationships through **Prolog-based reasoning**.
+A webhook-driven automation prototype connecting resume intake, Python text preprocessing, **keyword-based scoring**, candidate ranking, CSV export, and email delivery through n8n.
 
-- Dynamic and inferred facts
-- Graph exploration and relationship reasoning
-- **Stack:** Python · Neo4j · Cypher · Prolog · AIML · Streamlit
+**Python · n8n · Webhooks · JSON · CSV**
 
-[View Repository](https://github.com/fayzliaqat/Hybrid-Knowledge-Graph-Reasoning-System-Neo4j)
+[Explore all repositories →](https://github.com/fayzliaqat?tab=repositories)
 
-### 03 · AI Document Text Restoration
+## Tools I work with
 
-End-to-end damaged-document restoration pipeline combining image preprocessing, OCR analysis and contextual LLM reconstruction.
-
-- Damage-mask detection and OCR bounding-box analysis
-- Context-aware text reconstruction using LangChain + Mistral
-- Streamlit interface for original, damaged, OCR and reconstructed views
-- **Stack:** OpenCV · PaddleOCR · LangChain · Mistral · Streamlit
-
-[View Repository](https://github.com/fayzliaqat/AI-Document-Text-Restoration)
-
-### 04 · Agentic Resume Ranking System
-
-Automated candidate-processing workflow from resume intake to ranking and email delivery.
-
-- Webhook-driven JSON input
-- Python preprocessing and keyword-based scoring
-- Candidate ranking, CSV export and email automation through n8n
-- **Stack:** Python · n8n · Webhooks · JSON · CSV
-
-[View Repository](https://github.com/fayzliaqat/Agentic-Resume-Ranking-System)
-
-### 05 · Neural Architecture Benchmark on MNIST
-
-Comparative PyTorch benchmark of **MLP, CNN, BiLSTM, BiGRU and Mini Transformer** architectures under a unified evaluation pipeline.
-
-- Compared accuracy, precision, recall, F1, parameter count, training time and convergence
-- CNN achieved **99.17% test accuracy** and **99.16% F1-score**
-- **Stack:** Python · PyTorch · Deep Learning
-
----
+| Area | Technologies |
+| :--- | :--- |
+| Programming | Python, SQL, C++, Cypher, Prolog |
+| Machine learning & deep learning | PyTorch, TensorFlow, Keras, scikit-learn, Transformers |
+| Vision, audio & data | OpenCV, PaddleOCR, YOLOv8, ByteTrack, Librosa, Pandas, NumPy, PySpark |
+| AI systems & automation | LangChain, Neo4j, knowledge graphs, n8n, REST APIs, webhooks |
+| Applications & development | Streamlit, Git, GitHub, Flutter, Dart, GetX, Firebase, Node.js, Express |
 
 ## Experience
 
-### AI/ML Engineer Intern · Progree
+| Role | Organisation | Period | Focus |
+| :--- | :--- | :--- | :--- |
+| AI/ML Engineer Intern · Agentic AI Engineer Intern | Zee Outsourcing Solutions | Sep 2026–Present | Mentored assignments in MLOps, deployment, autonomous agents, multi-agent workflows, and LLM orchestration. |
+| AI/ML Engineer Intern | Progree | Sep–Oct 2026 | Practical AI projects, including vehicle detection, tracking, and traffic-flow analytics. |
+| Artificial Intelligence Intern | Big Brains | Aug–Sep 2026 | AI/ML tasks, preprocessing, model evaluation, and application development, including insurance cost prediction. |
+| Flutter Mobile App Development Intern | Big Brains | Aug–Sep 2026 | Flutter, GetX, MVC, Firebase, REST APIs, and CRUD workflows; completed with a **99% average score**. |
+| Open Source Contributor | Public GitHub projects | Aug 2025–Present | AI/ML implementation, documentation, bug fixes, and iterative project improvements. |
+| AI Engineer & AI/ML Developer | Fiverr · Freelance | Mar 2025–Present | Practical AI/ML applications connecting requirements, data processing, model workflows, and interfaces. |
+| Business Development Executive Intern | ByteCraft | **Mar–Jun 2025** | Client requirements, project scoping, technology research, pricing, and quotations. |
 
-**Sep 2026 – Present · Remote**
+## Selected certifications
 
-- Working on practical Artificial Intelligence and Machine Learning projects, assignments and training.
-- Applying AI concepts to real-world problem-solving while developing technical skills under professional guidance and mentorship.
+| Credential | Issuer | Verification |
+| :--- | :--- | :--- |
+| Agentic AI Certified Foundations Associate | Oracle | [View credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=AC04238625F52F78322EBD34794E6506667C1ACB208D14DB41CA39F3FB27644F) |
+| AI Engineer for Data Scientists Associate | DataCamp | [View credential](https://www.datacamp.com/certificate/AEDS0010283827298) |
+| Neo4j Certified Professional | Neo4j GraphAcademy | [View credential](https://graphacademy.neo4j.com/c/b69a5e9e-16ab-4ad0-a077-b38efd2ef897) |
+| Google AI Professional Certificate | Google | [View credential](https://www.coursera.org/account/accomplishments/specialization/STI3INE40G6F) |
+| Retrieval-Augmented Generation for Enhanced AI Outputs | IBM | [View credential](https://www.credly.com/badges/f3e1840e-010a-44d8-95c7-bf1de55077d2/linked_in_profile) |
 
-### Artificial Intelligence Intern · Big Brains
+<details>
+<summary>Additional credentials</summary>
 
-**Aug 2026 – Present · Remote**
+- [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/J22EFOD4ROFM)
+- [NASA Open Science 101](https://www.credly.com/badges/1c84b0c1-ee4c-4dfa-9b13-0ab19b5fcc9d/public_url)
 
-- Working on practical AI/ML tasks, GenAI/LLM research and project-based implementation.
-- Built a **Medical Insurance Cost Prediction** workflow using Pandas, Linear Regression, MAE/MSE/RMSE/R² and Streamlit.
-- Exploring AI/ML workflows, implementation techniques and practical development practices through assigned projects and mentorship.
-- Collaborating remotely and gaining experience with professional development workflows and team-based execution.
+</details>
 
-### Flutter Mobile App Development Intern · Big Brains
+## Contribution activity
 
-**Aug 2026 – Sep 2026 · Remote**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fayzliaqat/fayzliaqat/output/github-activity-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fayzliaqat/fayzliaqat/output/github-activity.svg" />
+  <img src="https://raw.githubusercontent.com/fayzliaqat/fayzliaqat/output/github-activity.svg" alt="Fayz Liaqat's public GitHub contribution calendar, updated daily" width="100%" />
+</picture>
 
-- Completed the Flutter Mobile App Development Internship with a **99% average score**.
-- Built hands-on experience with **Flutter, Dart, GetX, MVC architecture, Firebase Authentication, Firestore CRUD, REST APIs, Node.js and Express**.
-- Worked on mobile application development through practical projects and assigned development tasks.
+[View contributions on GitHub](https://github.com/fayzliaqat?tab=overview)
 
-### Open Source Contributor
-
-**Aug 2025 – Present · Remote · Part-time**
-
-- Contributing to open-source and public GitHub projects through software development, AI/ML experimentation, documentation, bug fixes, feature improvements and collaborative workflows.
-- Working across Python, machine learning, LLM/GenAI, NLP, computer vision, knowledge graphs, automation and related AI engineering technologies.
-- Continuously improving projects through practical implementation and iteration.
-
-### AI Engineer & AI/ML Developer · Fiverr
-
-**Mar 2025 – Present · Remote · Freelance**
-
-- Providing freelance AI and machine learning development services focused on practical, end-to-end intelligent systems and software prototypes.
-- Developing solutions across **Machine Learning, Deep Learning, NLP, Computer Vision, Speech AI, Generative AI, Agentic AI, LLMs, RAG, knowledge graphs, symbolic reasoning and intelligent workflow automation**.
-- Working with **Python, PyTorch, TensorFlow, Scikit-learn, Transformers, LangChain, Neo4j, OpenCV, PaddleOCR, n8n, REST APIs and Webhooks**.
-- Translating technical requirements into usable AI systems with attention to reproducibility, documentation and reliable implementation.
-
-### Business Development Executive Intern · ByteCraft
-
-**Mar 2025 – Jun 2025 · Lahore, Pakistan · On-site**
-
-- Researched market demand, commonly requested technology stacks and pricing patterns across web, mobile and AI software projects.
-- Reviewed client requirements and gained practical exposure to project acquisition, scope evaluation, quotations and software-delivery workflows.
-
----
-
-## Key Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Oracle-Agentic%20AI%20Certified%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/DataCamp-Certified%20AI%20Engineer-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" />
-<img src="https://img.shields.io/badge/Neo4j-Certified%20Professional-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/IBM-Retrieval%20Augmented%20Generation-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-<img src="https://img.shields.io/badge/NASA-Open%20Science%20101-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" />
-<img src="https://img.shields.io/badge/Google-AI%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-
-</div>
-
-These are the credentials I highlight most strongly because they align directly with AI engineering, Agentic AI, graph systems, RAG and applied AI work.
-
----
-
-## Publication / Research Work
-
-### Neural Architecture Benchmark on MNIST: A Comparative Evaluation of MLP, CNN, LSTM, GRU, and Transformer Architectures
-
-**University of Management and Technology (UMT) · Jul 2026**
-
-Comparative deep-learning benchmark using a unified PyTorch pipeline to evaluate model quality, efficiency and convergence behavior across multiple neural architectures.
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fayzliaqat&theme=github_dark" width="100%" alt="GitHub contribution activity" />
-
-</div>
-
-## Contribution Snake
-
-<div align="center">
+### Contribution snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fayzliaqat/fayzliaqat/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fayzliaqat/fayzliaqat/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/fayzliaqat/fayzliaqat/output/github-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/fayzliaqat/fayzliaqat/output/github-snake.svg" alt="Animated snake following Fayz Liaqat's public GitHub contributions" width="100%" />
 </picture>
 
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:fayzliaqat@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-fayzliaqat%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/fayz-liaqat/">
-<img src="https://img.shields.io/badge/LinkedIn-Fayz%20Liaqat-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/fayzliaqat">
-<img src="https://img.shields.io/badge/GitHub-Fayz%20Liaqat-4C1D95?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://fayz-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Fayz%20Liaqat-312E81?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-</div>
-
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:312E81&height=120&section=footer" width="100%" />
+**Let's build something useful.**  
+[Portfolio](https://fayz-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/fayz-liaqat/) · [fayzliaqat@gmail.com](mailto:fayzliaqat@gmail.com)
 
 </div>
